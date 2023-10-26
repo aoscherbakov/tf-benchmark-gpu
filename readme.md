@@ -63,3 +63,9 @@ Official TensorFlow results for P100 and K80 can be found in the TensorFlow Guid
 | 2    |             |           |            |         |       |
 | 4    |             |           |            |         |       |
 | 8    |             |           |            |         |       |
+
+### yandex cloud NVIDIA T4
+
+| GPUs | InceptionV3 | ResNet-50 | ResNet-152 | AlexNet | VGG16 |
+|------|-------------|-----------|------------|---------|-------|
+| 1    | 81.02       | 131.06    | 49.52      | 1688.66 | 78.59  |
